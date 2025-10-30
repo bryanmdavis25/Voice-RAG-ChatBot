@@ -1,0 +1,13 @@
+streamlit
+openai
+groq
+langchain
+langchain-community
+langchain-openai
+langchain-pinecone
+tiktoken
+python-dotenv
+sounddevice
+numpy
+pydub
+pypdf
