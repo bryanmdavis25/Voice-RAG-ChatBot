@@ -19,6 +19,7 @@ With this app, users can **ask questions by speaking**, and the chatbot will **u
 ## 🧩 Features  
 
 ✅ Voice input using `streamlit-mic-recorder`  
+✅ real time streaming
 ✅ PDF document ingestion and vector embedding  
 ✅ Context retrieval via Pinecone semantic search  
 ✅ Smart answers powered by GPT-4o  
