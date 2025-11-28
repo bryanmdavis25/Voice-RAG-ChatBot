@@ -23,6 +23,7 @@ With this app, users can **ask questions by speaking**, and the chatbot will **u
 ✅ PDF document ingestion and vector embedding  
 ✅ Context retrieval via Pinecone semantic search  
 ✅ Smart answers powered by GPT-4o  
+✅ record functionality
 ✅ Real-time speech responses (TTS)  
 ✅ Persistent chat history with audio playback  
 ✅ Modern Streamlit UI with themed styling  
